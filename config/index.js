@@ -6,7 +6,7 @@ export const config = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: "",
+  APP_ID: "o30pF6i8rx-0RnX1V9e1QCfUTwBg",
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
@@ -27,7 +27,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "",
+      useTemplateId: "	O8UBVodq3SHMTlWr8C8JtI8LNQ0oxbkU9DoFJcIo2pI",
       // 所在省份
       province: "广东",
       // 所在城市
